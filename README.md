@@ -35,7 +35,7 @@ It sets up a custom SSID, runs a DNS server, and reports connected clients with 
    ```bash
    git clone https://github.com/git-shad/FakeFi.git
    cd FakeFi
-   
+
 2. **Open the project** in Arduino IDE or PlatformIO.
 
 3. **Configure your WiFi credentials** in the code:
@@ -169,5 +169,5 @@ You are solely responsible for how you use this project.
 
 ## 📜 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 git-shad
 
